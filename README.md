@@ -16,6 +16,8 @@ This is a simple website project, deployment can be on any we server or even loc
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull Requests for review.
+
 ### Copyright
 
 2018 Artem Masalowicz Tutorial
