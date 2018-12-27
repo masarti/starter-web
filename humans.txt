@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Artem Masałowicz
 
 # TECHNOLOGY COLOPHON
 
